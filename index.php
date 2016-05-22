@@ -10,7 +10,7 @@
 // +----------------------------------------------------------------------
 
 // 应用入口文件
-
+//hh
 
 define('CONF_PATH','./Application/Common/Conf/');
 define('RUNTIME_PATH','./Application/Runtime/');
